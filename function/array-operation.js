@@ -4,7 +4,7 @@ function sumOfNumber(numbers) {
   for (const number of numbers) {
     console.log(number);
     sum = sum + number;
- 
+
   }
   return sum;
 }
